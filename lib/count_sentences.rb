@@ -20,5 +20,5 @@ class String
   end
 end
 
-str = String.new("how many sentences. 1,2,3???")
+str = String.new("how many sentences. 1,2,3?? ?")
 puts str.count_sentences
