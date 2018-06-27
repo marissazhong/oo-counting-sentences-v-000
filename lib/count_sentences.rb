@@ -20,4 +20,4 @@ class String
 end
 
 str = String.new("how many sentences. 1,2,3?")
-put str.count_sentences
+puts str.count_sentences
