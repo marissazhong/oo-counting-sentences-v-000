@@ -18,3 +18,5 @@ class String
     sentences = self.split(/[.?!]/)
   end
 end
+
+str = String.new("how many sentences. 1,2,3?")
